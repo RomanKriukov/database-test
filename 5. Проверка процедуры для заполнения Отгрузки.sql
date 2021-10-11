@@ -1,0 +1,2 @@
+USE Storehouse;
+EXEC CalculationOfShipment
